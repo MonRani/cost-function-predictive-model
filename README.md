@@ -1,5 +1,5 @@
-Cost Function Predictive Model for Diastolic Blood Pressure
-Linear Data
+##Cost Function Predictive Model for Diastolic Blood Pressure
+#Linear Data
 In this section, we aim to develop a predictive model for diastolic blood pressure based on total blood cholesterol levels. The synthetic data set consists of 20 patients, with cholesterol levels denoted by x and diastolic blood pressure denoted by y.
 
 Steps:
@@ -12,7 +12,7 @@ Apply the gradient descent algorithm to find optimal values a* and b* that minim
 4. Plot Results:
 Plot the line y = a*x + b along with the data points.
 
-Non-linear Data
+#Non-linear Data
 Upon discovering manufacturing errors in the blood pressure monitor, a new, less error-prone machine was used. The updated data set is stored in data_chol_dias_pressure_non_lin.txt.
 
 Steps:
@@ -29,5 +29,3 @@ Reflection:
 A linear function (y = ax + b) does not fit the data’s curvature. The plotted line for a linear model on non-linear data deviates from the actual data points, leading to a less accurate representation of the underlying relationship.
 
 We could extend the linear model to a polynomial function or exponential function by including higher-order terms (e.g., x^2). This allows the model to capture non-linear relationships by introducing curvature to the line. 
-
-# Traffic_Simulation
