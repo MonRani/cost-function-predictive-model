@@ -31,4 +31,3 @@ A linear function (y = ax + b) does not fit the data’s curvature. The plotted 
 We could extend the linear model to a polynomial function or exponential function by including higher-order terms (e.g., x^2). This allows the model to capture non-linear relationships by introducing curvature to the line. 
 
 # Traffic_Simulation
-# Traffic_Simulation
